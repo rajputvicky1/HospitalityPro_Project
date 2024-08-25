@@ -1,0 +1,10 @@
+Customer Contact: 123456743
+Check-in Date: 26/04/2024
+Check-out Date: 30/04/2024
+Room Type: Double
+Room Available: 203
+Meal: dinner
+No. of Days: 4
+Paid Tax: Rs. 360.00
+Actual Total: Rs. 4000.00
+Total Cost: Rs. 4360.00

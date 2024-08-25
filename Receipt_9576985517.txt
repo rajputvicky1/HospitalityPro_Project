@@ -1,0 +1,10 @@
+Customer Contact: 9576985517
+Check-in Date: 5/04/2024
+Check-out Date: 10/04/2024
+Room Type: Double
+Room Available: 112
+Meal: brekfast
+No. of Days: 5
+Paid Tax: Rs. 315.00
+Actual Total: Rs. 3500.00
+Total Cost: Rs. 3815.00

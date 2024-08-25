@@ -1,0 +1,10 @@
+Customer Contact: 9709523243
+Check-in Date: 21/03/2024
+Check-out Date: 23/03/2024
+Room Type: Single
+Room Available: 202
+Meal: lunch
+No. of Days: 2
+Paid Tax: Rs. 382.50
+Actual Total: Rs. 4250.00
+Total Cost: Rs. 4632.50

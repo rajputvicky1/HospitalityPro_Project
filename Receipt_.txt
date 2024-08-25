@@ -1,0 +1,10 @@
+Customer Contact: 
+Check-in Date: 
+Check-out Date: 
+Room Type: Single
+Room Available: 
+Meal: 
+No. of Days: 
+Paid Tax: 
+Actual Total: 
+Total Cost: 
